@@ -1,0 +1,26 @@
+
+AtherisReader Creator License Agreement
+========================================
+
+License Holder: Creator
+Email: alanwalkerfaded69207@gmail.com
+Platform: AtherisReader
+Coin System: AtherisCoin
+Date Issued: 2025-05-12
+License Type: Creator Ownership License
+
+This license grants Creator full ownership and operational rights over the AtherisReader platform. This includes the right to:
+
+- Modify and customize all frontend/backend code
+- Deploy the platform commercially and non-commercially
+- Monetize all features, including AtherisCoin, wallet, ads, and marketplace
+- Rebrand, distribute, and expand the project under the Creator's authority
+
+Enforcement of Platform Roles:
+- "Creator" is a reserved, unchangeable identity with system override authority.
+- All coin value changes, module overrides, and NPC integrity actions are locked to Creator.
+
+By using this license, the Creator assumes responsibility for platform usage, earnings, and user interaction protocols.
+
+Issued and verified by: AtherisReader Core System
+Secured by: Atheris Security Engine v8
